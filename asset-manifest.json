@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Depaul-Uni-Exam-Form/static/css/main.d5289b2f.css",
+    "main.js": "/Depaul-Uni-Exam-Form/static/js/main.b7bf6b10.js",
+    "index.html": "/Depaul-Uni-Exam-Form/index.html",
+    "main.d5289b2f.css.map": "/Depaul-Uni-Exam-Form/static/css/main.d5289b2f.css.map",
+    "main.b7bf6b10.js.map": "/Depaul-Uni-Exam-Form/static/js/main.b7bf6b10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5289b2f.css",
+    "static/js/main.b7bf6b10.js"
+  ]
+}
